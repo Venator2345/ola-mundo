@@ -1,2 +1,2 @@
 # ola-mundo
-Criando um "olá mundo" sem usar bibliotecas em C.
+Criando um "olá mundo" sem importar bibliotecas em C.
